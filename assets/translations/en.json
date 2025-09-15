@@ -1,0 +1,93 @@
+{
+
+  "app_title": "LiveStock Lens",
+  "app_subtitle": "AI-powered Breed Recognition",
+
+
+  "get_started": "Get Started",
+
+
+  "home_title": "Home",
+
+
+  "knowledge_title": "Knowledge Hub",
+
+
+  "about_title": "About Us",
+
+  "breed_detection": "Breed Detection",
+  "no_image": "No Image Selected",
+  "capture_photo": "Capture Photo",
+  "upload_photo": "Upload Photo",
+  "next": "Next →",
+  "proceed_message": "Proceeding to Detection Results...",
+
+  "about": "About",
+  "app_name": "LiveStock Lens",
+  "app_description": "An AI-powered mobile app that identifies cattle and buffalo breeds using images. Built for farmers, field workers, and researchers.",
+  "developed_by": "Developed by",
+  "team_name": "Team Git Push Mafia",
+  "footer": "Smart India Hackathon 2025 Prototype",
+
+  "breedDetection": "Breed Detection",
+  "noImageSelected": "No Image Selected",
+  "capturePhoto": "Capture Photo",
+  "uploadPhoto": "Upload Photo",
+  "proceedMessage": "Proceeding to Detection Results...",
+  "nextButton": "Next →",
+
+  "app_name": "LiveStock Lens",
+  "about": "About",
+  "breed_detection": "Breed Detection",
+  "knowledge_hub": "Knowledge Hub",
+  "developed_by": "Developed by",
+  "team_name": "Team Git Push Mafia",
+  "prototype": "Smart India Hackathon 2025 Prototype",
+  "no_image": "No Image Selected",
+  "capture_photo": "Capture Photo",
+  "upload_photo": "Upload Photo",
+  "next": "Next →",
+  "proceed_detection": "Proceeding to Detection Results...",
+
+  "knowledge_hub": "Knowledge Hub",
+  "breed_detection": "Breed Detection",
+  "about": "About",
+  "welcome": "Welcome to LiveStock Lens",
+  "smart_app": "Smart cattle & buffalo breed recognition app",
+
+  "gir_name": "Gir Cow",
+  "gir_desc": "Origin: Gujarat | High milk yield | Gentle nature",
+  "gir_details": "The Gir cow is one of the principal Zebu breeds originating in Gujarat. It is known for its high milk yield, disease resistance, and adaptability to hot climates.",
+
+  "sahiwal_name": "Sahiwal Cow",
+  "sahiwal_desc": "Origin: Punjab | Heat tolerant | Dairy breed",
+  "sahiwal_details": "The Sahiwal is among the best dairy cattle breeds. It is heat tolerant and produces rich milk with high butterfat content.",
+
+  "murrah_name": "Murrah Buffalo",
+  "murrah_desc": "Origin: Haryana | Best dairy buffalo",
+  "murrah_details": "Murrah buffaloes are famous for their high milk production. They form the backbone of India's dairy sector.",
+
+  "ongole_name": "Ongole Cow",
+  "ongole_desc": "Origin: Andhra Pradesh | Draught breed",
+  "ongole_details": "Ongole cattle are strong draught animals, also exported for crossbreeding due to their hardiness.",
+
+  "jaffarabadi_name": "Jaffarabadi Buffalo",
+  "jaffarabadi_desc": "Origin: Gujarat | Strong & hardy",
+  "jaffarabadi_details": "The Jaffarabadi buffalo is a heavy breed, useful both for milk and farmwork.",
+
+  "app_name": "LiveStock Lens",
+
+  "welcome_title": "Welcome to LiveStock Lens",
+  "welcome_subtitle": "Smart cattle & buffalo breed recognition app",
+
+  "breed_detection": "Breed Detection",
+  "breed_detection_sub": "Capture or upload cattle images for detection",
+
+  "knowledge_hub": "Knowledge Hub",
+  "knowledge_hub_sub": "Explore detailed info about breeds",
+
+  "about": "About",
+  "about_sub": "Know about our team & app"
+
+
+}
